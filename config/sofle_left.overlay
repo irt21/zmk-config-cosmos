@@ -1,4 +1,6 @@
-#include "sofle.dtsi"
+#include <dt-bindings/zmk/matrix_transform.h>
+#include <layouts/josefadamcik/sofle.dtsi>
+
 / {
     chosen {
       zmk,kscan = &kscan0;
