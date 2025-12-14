@@ -48,7 +48,7 @@
         compatible = "zmk,keymap";
 
         default_layer {
-            display-name = "default";)
+            display-name = "default";
 //The missing keythat would be a sofle encoder is the 0th/11th column on bottom row, so the bottom outer key, the encoder is really the bottom right key
 // ------------------------------------------------------------------------------------------------------------
 // |   `   |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |       |
