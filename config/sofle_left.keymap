@@ -71,7 +71,7 @@
 &kp TAB        &kp Q  &kp W    &kp E    &kp R  &kp T                    &kp Y  &kp U     &kp I     &kp O    &kp P    &kp BSPC
 &kp LCTRL      &kp A  &kp S    &kp D    &kp F  &kp G                    &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &mt LSHFT LPAR &kp Z  &kp X    &kp C    &kp V  &kp B &kp LGUI  &kp RGUI &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &mt RSHFT RPAR
-               &none &kp LALT &kp LALT &kp LOWER &mo SPACE              &mo RET   &kp RAISE &kp RALT  &kp RALT &none
+               &none &kp LALT &kp LALT &mo LOWER &kp SPACE              &kp RET   &mo RAISE &kp RALT  &kp RALT &none
             >;
 
         };
@@ -112,7 +112,7 @@
             >;
 
         };
-
+        
         adjust_layer {
 // ----------------------------------------------------------------------------------------------------------------------------
 // | BTCLR  |  BT1    |  BT2    |   BT3   |   BT4   |   BT5   |                  |      |      |       |      |       |       |
